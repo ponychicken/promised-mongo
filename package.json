@@ -28,9 +28,9 @@
     "Kevin McTigue"
   ],
   "dependencies": {
-    "readable-stream": "~1.1.8",
-    "mongodb": "1.4.0",
-    "q": "~0.9.7"
+    "readable-stream": "^1.1.8",
+    "mongodb": "^1.4.0",
+    "q": "^1.1.2"
   },
   "scripts": {
     "test": "node ./tests"
